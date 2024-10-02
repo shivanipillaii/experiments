@@ -1,1 +1,5 @@
 "This is the first line of File1." 
+
+"This is a new line added in feature-1." 
+"New content in File1 on new-branch." 
+
