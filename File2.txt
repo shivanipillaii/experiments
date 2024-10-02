@@ -1,2 +1,1 @@
 "This is the first line of File2." 
-"This is an additional line in File2." 
